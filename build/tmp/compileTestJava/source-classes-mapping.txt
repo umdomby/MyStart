@@ -1,0 +1,2 @@
+com/example/MyStart/MyStartApplicationTests.java
+ com.example.MyStart.MyStartApplicationTests
